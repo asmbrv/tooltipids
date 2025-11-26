@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Tooltip IDs
+## Notes: Displays the ItemID and SpellID in the tooltips.
+## Author: .asm
+## Version: 1.0
+TooltipIDs.lua
